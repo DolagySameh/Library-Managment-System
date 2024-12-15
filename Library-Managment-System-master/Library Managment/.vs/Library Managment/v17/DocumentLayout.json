@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\library managment\\library.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|solutionrelative:library managment\\library.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|c:\\users\\nono\\onedrive\\desktop\\library-managment-system-master\\library managment\\library managment\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:2:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|solutionrelative:library managment\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\library managment\\type.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|solutionrelative:library managment\\type.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|c:\\users\\nono\\onedrive\\desktop\\library-managment-system-master\\library managment\\library managment\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:1:0:{AC26DCF3-B6A9-40FA-920D-9D00BB18F5EA}|Library Managment\\Library Managment.fsproj|solutionrelative:library managment\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Program.fs",
+              "RelativeDocumentMoniker": "Library Managment\\Program.fs",
+              "ToolTip": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Program.fs",
+              "RelativeToolTip": "Library Managment\\Program.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T16:39:22.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHgUAAAAAAAAAAAqwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-09T23:47:19.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AQIAAKwEAAAAAAAAAAAewLUEAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-09T23:12:47.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.fs",
+              "DocumentMoniker": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Library.fs",
+              "RelativeDocumentMoniker": "Library Managment\\Library.fs",
+              "ToolTip": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Library.fs",
+              "RelativeToolTip": "Library Managment\\Library.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T23:07:20.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Type.fs",
+              "DocumentMoniker": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Type.fs",
+              "RelativeDocumentMoniker": "Library Managment\\Type.fs",
+              "ToolTip": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Type.fs",
+              "RelativeToolTip": "Library Managment\\Type.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T23:06:04.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Program.fs",
+              "RelativeDocumentMoniker": "Library Managment\\Program.fs",
+              "ToolTip": "C:\\Users\\nono\\OneDrive\\Desktop\\Library-Managment-System-master\\Library Managment\\Library Managment\\Program.fs",
+              "RelativeToolTip": "Library Managment\\Program.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T22:46:04.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
